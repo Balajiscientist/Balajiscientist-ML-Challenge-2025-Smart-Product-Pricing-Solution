@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/Balajiscientist/ML-Challenge-2025-Smart-Product-Pricing-Solution/blob/main/README_BANNER.jpg?raw=true" 
+  <img src="https://github.com/Balajiscientist/Balajiscientist-ML-Challenge-2025-Smart-Product-Pricing-Solution/blob/main/README_BANNER.jpg?raw=true" 
        alt="ML Challenge 2025 Banner" 
        width="100%">
 </p>
